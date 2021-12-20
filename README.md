@@ -1,5 +1,5 @@
-# EEE-102-Course-Project
-FPGA Guitar Hero Game.
+# FPGA Guitar Hero Game
+
 Requirements to implement: BASYS-3 FPGA board, loudspeaker with open connections, VGA monitor.
 Uses a modular approach.
 Plays the imperial march
